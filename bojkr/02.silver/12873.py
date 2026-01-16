@@ -1,6 +1,7 @@
 # 12873 기념품
 # https://www.acmicpc.net/problem/12873
 # Silver 3
+# solved
 
 def main():
     N = int(input())
